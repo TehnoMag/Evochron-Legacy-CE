@@ -4,8 +4,8 @@
 Текущая версия перевода актуальна для игры Evochron Legacy CE версии не ниже v 2.0018
 
 Установка перевода:
-Разархивировать архив Русификатор Evochron Legacy CE v 2.0018 В папку media игры.
-Пример: D:\SteamLibrary Game\steamapps\common\Evochron Legacy\media. 
+Разархивировать архив Русификатор Evochron Legacy CE v 2.0018 В коренную папку с игрой.
+Пример: D:\SteamLibrary Game\steamapps\common\Evochron Legacy. 
 На вопрос заменить файлы? 
 Отвечаем - копировать с заменой, ставим галочку сделать это для следующих хх конфликтов файлов.
 
