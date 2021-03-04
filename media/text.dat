@@ -1971,42 +1971,43 @@
 2028=W
 2029=N
 2030=TLN
-2031=PLR
+2031=OSP
 2032=SBR
-2033=RVN
-2034=SKR
+2033=FLC
+2034=RPT
 2035=PNX
-2036=HNR
+2036=EGL
 2037=RNG
 2038=CTN
 2039=LVN
 2040=V-F
 2041=V-I
 2042=V-B
-2043=FET
-2044=ARS
+2043=PLS
+2044=RZR
 2045=SHD
 2046=WRH
 2047=EVC
-2048=EVE
+2048=NTK
 2049=LMP
 2050=FRS
-2051=AVG
+2051=AGR
 2052=SHK
 2053=PRD
 2054=CHM
 2055=ARW
 2056=SCP
-2057=PTR
-2058=MRG
+2057=HTR
+2058=TYP
 2059=VTR
 2060=STL
 2061=GRD
-2062=LGC
-2063=MTH
+2062=PLD
+2063=TTN
 2064=STM
 2067=20
 2068=8
+2069=< Connection established for LinkApp >
 2070=Attacking
 2071=Vonari
 2072=Aries
@@ -2050,6 +2051,7 @@
 2110=(Правый клик для просмотра системы)
 2111=Объекты
 2112=(Правый клик для просмотра сектора)
+2113=< Unable to establish connection for LinkApp >
 2114=Задания
 2115=Выкл
 2116=Низко
@@ -2070,6 +2072,7 @@
 2132=Reactive
 2133=Silica Fiber
 2134=Composite
+2135=Activate LinkApp
 2137=\/ Axis 11-20 \/
 2138=/\ Axis 1-10 /\
 2139=NAVY
@@ -2078,6 +2081,8 @@
 2142=Energy
 2143=ECM
 2144=Heatsink
+2145=Very High
+2146=OCRS Display
 2147=Активировать Задание
 2148=Деактивировать Задание
 2149=Очень Высоко
@@ -2095,6 +2100,7 @@
 2162=Данные по Текущему заданию:
 2164=Текущие Задание: 
 2165=Текущая Стадия: 
+2166=Pilot Visible
 2167=Активно
 2168=Статус Задания: 
 2169=< Unable to place ship/object for quest (
@@ -2124,6 +2130,7 @@
 2193=50 единиц воды в любой город. Вы можете
 2194=извлечь воду из облаков, рек,
 2195=океанов, или планетарных колец.
+2196=< Unauthorized faction spacecraft in area for this objective, contract failed >
 2197=Контракт Действителен: 
 2198=Переключить Режим Управления Тягой:
 2199=< Contract link denied, opposing faction player is in this sector >
@@ -2140,6 +2147,15 @@
 2209=Первичное орудие:       Flarebeam
 2210=луч:                         Нет
 2211=Вторичное орудие:      Echelon X2
+
+2212=Roll View Control =
+2213=Move X View Control =
+2214=Move Y View Control =
+2215=Move Z View Control =
+2216=Roll View Control
+2217=Move X View Control
+2218=Move Y View Control
+2219=Move Z View Control
 
 2220=      < Шахтер/Торговец >   
 2221=Кредитов:                  50,000
@@ -2169,6 +2185,23 @@
 2251=Луч:                   Refractor
 2252=Вторичное орудие:     StarFire X4
 
+2240=  < Combat Pilot Specs >   
+2241=Credits:             10,000
+2242=Ship:           Talon/Arrow
+2243=Engine:             Class 4
+2244=Fuel Cap:               500
+2245=Energy Cores:             2
+2246=Cargo Bays:               1
+2247=Equip 1:      C1 Jump Drive
+2248=Equip 2:  Shield Battery X5
+2249=Equip 3:   C1 Repair System
+2250=Particle:           Maxim-R
+2251=Beam:             Refractor
+2252=Secondary:      StarFire X4
+
+2253=<destroyship>
+2254=<repair>
+
 2260=       < Исследователь >     
 2261=кредитов:                  40,000
 2262=Корабль:              Talon/Arrow
@@ -2182,13 +2215,24 @@
 2270=Луч:                         Нет
 2271=Вторичное орудие:      Echelon X2
 
+2272=Terrain Rover Controls:
+2273=Terrain Rover Forward:
+2274=Terrain Rover Reverse:
+2275=Terrain Rover Turn Right:
+2276=Terrain Rover Turn Left:
+2277=Terrain Rover High Speed Jets:
+2278=Terrain Rover Fire Cannons:
+2279=Activate/Deactivate Terrain Rover:
+2280=Terrain Rover 
 2281=Конфигурация:
 2282=Power 
 2283=Interface 
 2284=Function 
 2285=< Error, unable to store data in build templates, list is full >
+2286=< Unable to activate terrain rover at current location >
 2287=Snap View
 2288=< Receiving and synchronizing data with server... >
+2289=< Unable to deactivate terrain rover, ship is too far away >
 2290= Был получен экстренный сигнал
 2291=с терраформированной планеты.
 2292=Контракт подразумевает доставку
@@ -2211,6 +2255,11 @@
 2322=лечения травм и вирусов. Нужно 
 2323=доставить не менее 50 единиц препаратов
 2324=в любой из городов на указанной планете.
+2325=A distress call has been received
+2326=from a damaged ship.  The pilot is
+2327=offering the amount below to anyone
+2328=with a repair beam to provide
+2329=on site repairs.
 2330= Для исследования воздействия 
 2331=атмосферной среды на одной из  
 2332=планет на местных животных,
@@ -2254,12 +2303,15 @@
 2376=Тренировочный Бой с Дроном
 2377=Дополнительная Обучающая Информация:
 2378=Экран Построек
+2379=HUD Ship Pathways
 2380=Images: 
 2381=< Внимание: Требуемый для тренировки город отсутствует в профиле! >
 2382=< Внимание: Требуемый для тренировки станция отсутствует в профиле! >
 2383=< Может потребоваться другой профиль для завершения некоторых стадий. >
 2384=< Грузовой контейнер можно подобрать в: 
 2385=Фракция: 
+2386=Some detail settings have been changed to help maximize framerate performance for VR.
+2387=You can change them later as desired in the Options menu.
 2388=Deploy Sensor Array >
 2389=Deploy Sensor Array >
 2390=Recover Plant Samples >
@@ -2297,12 +2349,14 @@
 2422=Icy
 2423=Rocky
 2424=Вулканический
+
 2430=General
 2431=Agricultural
 2432=Industrial
 2433=Technological
 2434=Biological
 2435=Energy
+
 2439=None/Trace (Clear)
 2440=Mixed (Blue-White)
 2441=High Methane (Blue)
@@ -2310,6 +2364,7 @@
 2443=High Sulfur (Yellow)
 2444=High Hydrogen (Green)
 2445=< Нажмите Enter для продолжения... >
+2446=< Destination position must be within 1-1000 sectors... >
 2447=Отображение Текста: 
 2448=< Waiting For Clearance >
 2449=Всего Контрактов: 
@@ -2342,6 +2397,7 @@
 2473=IMG Navy
 2474=< Unable to save with quest timer active >
 2475=< Unable to save with quest battle active >
+2476=Unlock Build Point
 2477=Новости Региона
 2478= за ед.
 2479=Цена Покупки: 
@@ -2372,6 +2428,7 @@
 2503=топливо Proc
 2504=Щит
 2505=Совет:
+2506=Collision Alert
 2507= минут(ы) прошло с последнего сохранения...
 2508=< Продажа груза отклонена >
 2509=Закрепить
@@ -2614,6 +2671,64 @@
 2728=
 2729=
 
+2730=Left Click to Set Nav Marker at Position
+2731=Hold Right Click to Rotate Nav Map
+2732= Auto XYZ
+2733=< A pilot of the same faction in this sector has accepted a contract >
+2734=< Press trade key or button to join and link to the contract >
+2735=CONTRACT LINK: 
+2736=Maximum Energy to Shields:
+2737=Maximum Energy to Weapons:
+2738=2D Flip Mode
+2739=Ship Tracking View Mode Zoom In:
+2740=GVL
+2741=ALT
+2742=WPN
+2743=HUL
+2744=FVL
+2745=SET
+2746=AVL
+2747=VVL
+2748=HVL
+2749=< OCRS enabled >
+2750=< OCRS disabled >
+2751=FOV: 
+2752=Ratio: 
+2753=Right click to reset
+2754=Axis Input for X Movement: 
+2755=Axis Input for Y Movement: 
+2756=Button Input for Left MB: 
+2757=Button Input for Right MB: 
+2758=Right Click to Set Nav Marker at Position
+2759=Ship Tracking View Mode Zoom Out:
+2760= will hire a mercenary
+2761=with a terrain walker to survey a section
+2762=of land for a possible mining operation.
+2763=Fly near the waypoint, activate your terrain
+2764=walker, then complete the scan.
+2765=Survey region may be near or under water.
+
+2768=with a terrain rover to survey a section
+
+2770= will pay a mercenary with a
+2771=terrain walker to recover biological samples
+2772=from plants in the region of the waypoint.
+2773=Use the walker's mining beam to recover 25
+2774=units, then return the material to a city.
+2775=terrain rover to recover biological samples
+
+2779=with a terrain rover to recover a lost
+2780= will hire a mercenary
+2781=with a terrain walker to recover a lost
+2782=item that crash landed somewhere on the
+2783=surface of this planet.  Fly near the waypoint,
+2784=engage your terrain walker, search the area,
+2785=then recover and return it to a city.
+
+2786=Allied
+2787=Disputed
+2788=Enemy
+2789=Vonari
 
 2790=       < Независимый >        
 2791=Начальная дислокация:    Talison
@@ -2689,7 +2804,6 @@
 2857=< City command module limit reached >
 2858=< Выход из игры, нажмите выход еще раз для подтверждения >
 2859=LR4
-
 2860=Menu/Console Control: 
 2861=Menu Control Only
 2862=Меню и консоль управления
@@ -2715,5 +2829,7 @@
 2882 = модуль(и) питания необходимы для создания модуля щита на месте >
 2883 = модуль(и) хранения необходимы для создания модуля турелей на месте >
 2884 = Экипаж/каюты модуль(и), необходимые для создания модуля питания на месте >
+2885=25% bonus included for planetary conditions.
+2886=< Cargo ready to jettison, select again to confirm >
 2887 = <Внимание: станция находится под атакой в секторе
-2888=
+2888=Jump Caster
