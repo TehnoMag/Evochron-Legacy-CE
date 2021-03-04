@@ -2171,6 +2171,14 @@
 2231=Луч:                         Нет
 2232=Вторичное орудие:      Echelon X2
 
+2233=Commands:
+2234=<transport SX,SY,SZ,X,Y,Z>
+2235=<credits Amount#>
+2236=<equipment Slot,Item#>
+2237=<weapon Slot,Item#>
+2238=<cargo Slot,Item#,Amount#>
+2239=<contractpay Amount#>
+
 2240=         < Военный >   
 2241=Кредитов:                  10,000
 2242=Корабль:              Talon/Arrow
@@ -2184,20 +2192,6 @@
 2250=Первичное орудие:         Maxim-R
 2251=Луч:                   Refractor
 2252=Вторичное орудие:     StarFire X4
-
-2240=  < Combat Pilot Specs >   
-2241=Credits:             10,000
-2242=Ship:           Talon/Arrow
-2243=Engine:             Class 4
-2244=Fuel Cap:               500
-2245=Energy Cores:             2
-2246=Cargo Bays:               1
-2247=Equip 1:      C1 Jump Drive
-2248=Equip 2:  Shield Battery X5
-2249=Equip 3:   C1 Repair System
-2250=Particle:           Maxim-R
-2251=Beam:             Refractor
-2252=Secondary:      StarFire X4
 
 2253=<destroyship>
 2254=<repair>
