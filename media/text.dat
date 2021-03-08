@@ -1811,7 +1811,7 @@
 1864=RPM
 1865=H/S
 1866=< Terrain Rover активирован >
-1867=D/S
+1867=S
 1868=E/S
 1869=Астероид
 1870=< - X + >
@@ -2073,8 +2073,8 @@
 2133=Silica Fiber
 2134=Composite
 2135=Activate LinkApp
-2137=\/ Axis 11-20 \/
-2138=/\ Axis 1-10 /\
+2137=Save changes before exit?
+2138=
 2139=NAVY
 2140=Shield
 2141=Thruster
@@ -2271,7 +2271,7 @@
 2348= >
 2349=[MP] 
 2350=(Flying Animal)
-2351=(Aquatic Animal)
+2351=
 2352=(Plant)
 2353=F
 2354=R
@@ -2402,7 +2402,7 @@
 2484=Передать Позицию (чат):
 2485=< Deactivate current quest before selecting others >
 2486=Нет Доступной Информации
-2487=< Module placement invalid, must be within -75K to +75K >
+2487=< Module placement invalid, must be within -80K to +80K >
 2488=Commodity Values
 2489=H
 2490=Allied Spacecraft
@@ -2807,7 +2807,7 @@
 2866=< Запись журнала готова к удалению. Кликните еще раз для подтверждения >
 2867=Include Axis Controls: 
 2868=Axis already bound!  Clear axis control first.
-2869=High + Smoothing
+2869=Surface Smoothing
 2870=< Добро пожаловать в Evochron, пилот! >
 2871=< Пока в этой системе вы в безопасности, 
 2872=< вы можете принять некоторые простые 
