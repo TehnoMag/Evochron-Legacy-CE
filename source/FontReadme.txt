@@ -1,7 +1,8 @@
 Используемые шрифты.
 
-1) Заглавные - EvochronFont.ttf 57 w+16
-2) строчные - EvochronFont2.ttf 57 w+16
+1) Заглавные - EvochronFont.ttf 57
+2) строчные - EvochronFont2.ttf 57
+Рескейл: w+16
 
 NOTE!
 После того, как шрифт будет готов, не забудьте запустить Evochron8-FontBuilder.exe (https://www.starwraith.com/evochronlegacy/customkitse/Evochron8-FontBuilder.zip), чтобы шрифт применился к интерактивным элементам кокпита.
@@ -11,4 +12,4 @@ By Shawn:
 
 ДЛЯ HUD:
 Шрифта: EvochronFont2.ttf 18
-Ресйкел: h:12 w+8
+Рескейл: h:12 w+8
