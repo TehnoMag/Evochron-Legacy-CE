@@ -664,8 +664,8 @@
 678=Влияние
 679=Вонари
 680=Оплачено: 
-681=АЛС Флот
-682=ФЕД Флот
+681=ALC Navy
+682=FDN Navy
 683=Альянс
 684=Федерация
 685=< Добро пожаловать на 
@@ -1895,8 +1895,8 @@
 1950=Корпус
 1951=Оболочка
 1952=Нейтральный
-1953=АЛС
-1954=ФЕД
+1953=ALC
+1954=FDN
 1955=Выберите Фракцию:
 1957=Target Scanner 
 1958=< Fuel station requires nebula cloud or close proximity to star >
@@ -2387,8 +2387,8 @@
 
 2470=< Right click to sell one unit of cargo >
 2471=< Hold Alt key and click to consolidate >
-2472=ИНД
-2473=ИНД Флот
+2472=IND
+2473=IND Navy
 2474=< Unable to save with quest timer active >
 2475=< Unable to save with quest battle active >
 2476=Unlock Build Point
