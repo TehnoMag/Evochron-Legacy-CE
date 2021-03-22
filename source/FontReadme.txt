@@ -16,8 +16,8 @@ By Shawn:
 
 ДЛЯ HUD:
 Шрифт: EvochronFont2.ttf 18
-Рейскейл h:18 w+1
+Рейскейл h:18 w+8
 
 ДЛЯ HUD ALERTS
 Шрифт: EvochronFont2.ttf 18
-Рейскейл h:20 w+1
+Рейскейл h:20 w+8
